@@ -1,6 +1,8 @@
 # ffmpeg-pigeon
 My personal FFmpeg Linux build (not EditVideoBot's, that one takes forever to compile and is too big to upload). I use this for personal stuff.
 
+Includes ffprobe and ffplay too. Download the archive from the releases page: https://github.com/pigeonburger/ffmpeg-pigeon/releases
+
 Compilation flags used:
 
 ```
